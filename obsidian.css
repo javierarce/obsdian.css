@@ -29,3 +29,9 @@
 .theme-dark .graph-view.color-fill-tag {
   color: var(--bright-accent);
 }
+
+/* obsidian-calendar-plugin */
+
+#calendar-container {
+  --color-text-today: var(--text-accent);
+}
